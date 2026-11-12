@@ -70,8 +70,8 @@ Soy **Andrey Julián Ricaurte Duran**, Desarrollador de Software formado en **Ca
 ### 📊 Estadísticas en GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=juliand06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliand06&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliand06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliand06&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es" alt="Top Languages" />
 </div>
 
 <div align="center">
