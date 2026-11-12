@@ -60,10 +60,11 @@ Soy **Andrey Julián Ricaurte Duran**, Desarrollador de Software formado en **Ca
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :---: |
 | 🌐 **Portafolio Profesional** | Portafolio interactivo bilingüe (ES/EN) con visualizaciones en Canvas, diagrama de arquitectura interactivo y modo oscuro. | `JavaScript` `HTML5` `CSS3` | [Ver Repo](https://github.com/juliand06/Portafolio_AndreyRicaurte--1-) |
-| 🏥 **CareLink & Bounded Contexts** | Sistema desarrollado bajo principios de arquitectura limpia y diseño guiado por el dominio (*Domain-Driven Design* / Bounded Contexts). | `Java` `Arquitectura` `DDD` | [Ver Repo](https://github.com/juliand06/carelink_bounendcontexts) |
 | 🛠️ **Renta de Herramientas y Construcción** | Aplicación web para gestión de catálogo, reservas y alquiler de herramientas y maquinaria de construcción. | `JavaScript` `HTML5` `CSS3` | [Ver Repo](https://github.com/juliand06/rentaherramientas_equiposconstruccion) |
-| 🗄️ **Reservas & Consultas PostgreSQL** | Modelado relacional, contenedores y consultas avanzadas en PL/pgSQL para gestión de reservas y datos estructurados. | `PostgreSQL` `PL/pgSQL` `Docker` | [Ver Repo](https://github.com/juliand06/TallerReservasPostgreSQL) |
-| 🤖 **DeliveryBot — Automatización** | Flujo automatizado mediante bot inteligente para gestión y procesamiento de pedidos en tiempo real. | `JSON` `Automatización` `APIs` | [Ver Repo](https://github.com/juliand06/01_deliverybot_principal.json) |
+| 🏥 **CareLink — Bounded Contexts** | Sistema diseñado bajo principios de arquitectura limpia y diseño guiado por el dominio (*Domain-Driven Design* / Bounded Contexts). | `Java` `Arquitectura` `DDD` | [Ver Repo](https://github.com/juliand06/carelink_bounendcontexts) |
+| 🏥 **CareLink Backend** | Implementación backend principal del ecosistema CareLink desarrollada en Java. | `Java` `Backend` `POO` | [Ver Repo](https://github.com/juliand06/carelink) |
+| 🗄️ **Examen & Consultas PostgreSQL** | Esquema relacional normalizado, funciones, triggers y consultas avanzadas en PL/pgSQL. | `PostgreSQL` `PL/pgSQL` `SQL` | [Ver Repo](https://github.com/juliand06/exam-postgres) |
+| 🐳 **Taller Reservas PostgreSQL** | Modelado relacional de sistema de reservas desplegado con contenedores Docker y PostgreSQL. | `PostgreSQL` `Docker` `SQL` | [Ver Repo](https://github.com/juliand06/TallerReservasPostgreSQL) |
 
 ---
 
