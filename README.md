@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=200&section=header&text=Andrey%20Juli%C3%A1n%20Ricaurte&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20de%20Software%20%7C%20Backend%20%26%20Frontend%20%7C%20Arquitectura%20%26%20SQL&descAlignY=58&descSize=16" width="100%" alt="Banner Andrey Ricaurte" />
+  <img src="./assets/banner.svg" width="100%" alt="Banner Andrey Ricaurte" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software+en+Bucaramanga%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;Arquitectura+de+Software+%26+Bases+de+Datos+Relacionales;Desarrollo+Web%2C+Backend+con+Java+%2F+Python+y+Automatizaci%C3%B3n;Disponible+para+nuevos+retos+y+proyectos+de+alto+impacto+%F0%9F%9A%80)](https://github.com/juliand06)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software+en+Bucaramanga%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;Arquitectura+de+Software+y+Bases+de+Datos+Relacionales;Desarrollo+Web%2C+Backend+con+Java+%2B+Python+y+Automatizaci%C3%B3n;Disponible+para+nuevos+retos+y+proyectos+de+alto+impacto+%F0%9F%9A%80)](https://github.com/juliand06)
 
   <p align="center">
     <a href="https://www.linkedin.com/in/andrey-julian-ricaurte-duran-a74959425/" target="_blank">
@@ -82,6 +82,6 @@ Soy **Andrey Julián Ricaurte Duran**, Desarrollador de Software formado en **Ca
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer" />
 </div>
 
