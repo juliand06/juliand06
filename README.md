@@ -5,14 +5,17 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software+en+Bucaramanga%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;Arquitectura+de+Software+y+Bases+de+Datos+Relacionales;Desarrollo+Web%2C+Backend+con+Java+%2B+Python+y+Automatizaci%C3%B3n;Disponible+para+nuevos+retos+y+proyectos+de+alto+impacto+%F0%9F%9A%80)](https://github.com/juliand06)
 
   <p align="center">
+    <a href="https://portafoleoandreyricaurte.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portafolio_En_Vivo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio En Vivo" />
+    </a>
+    <a href="https://github.com/juliand06/Portafolio_AndreyRicaurte--1-" target="_blank">
+      <img src="https://img.shields.io/badge/💻_Repo_Portafolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Portafolio" />
+    </a>
     <a href="https://www.linkedin.com/in/andrey-julian-ricaurte-duran-a74959425/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:andreyricaurte10@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/juliand06/Portafolio_AndreyRicaurte--1-" target="_blank">
-      <img src="https://img.shields.io/badge/Portafolio_Web-111827?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portafolio" />
     </a>
   </p>
 
@@ -59,12 +62,15 @@ Soy **Andrey Julián Ricaurte Duran**, Desarrollador de Software formado en **Ca
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :---: |
-| 🌐 **Portafolio Profesional** | Portafolio interactivo bilingüe (ES/EN) con visualizaciones en Canvas, diagrama de arquitectura interactivo y modo oscuro. | `JavaScript` `HTML5` `CSS3` | [Ver Repo](https://github.com/juliand06/Portafolio_AndreyRicaurte--1-) |
-| 🛠️ **Renta de Herramientas y Construcción** | Aplicación web para gestión de catálogo, reservas y alquiler de herramientas y maquinaria de construcción. | `JavaScript` `HTML5` `CSS3` | [Ver Repo](https://github.com/juliand06/rentaherramientas_equiposconstruccion) |
-| 🏥 **CareLink — Bounded Contexts** | Sistema diseñado bajo principios de arquitectura limpia y diseño guiado por el dominio (*Domain-Driven Design* / Bounded Contexts). | `Java` `Arquitectura` `DDD` | [Ver Repo](https://github.com/juliand06/carelink_bounendcontexts) |
-| 🏥 **CareLink Backend** | Implementación backend principal del ecosistema CareLink desarrollada en Java. | `Java` `Backend` `POO` | [Ver Repo](https://github.com/juliand06/carelink) |
-| 🗄️ **Examen & Consultas PostgreSQL** | Esquema relacional normalizado, funciones, triggers y consultas avanzadas en PL/pgSQL. | `PostgreSQL` `PL/pgSQL` `SQL` | [Ver Repo](https://github.com/juliand06/exam-postgres) |
-| 🐳 **Taller Reservas PostgreSQL** | Modelado relacional de sistema de reservas desplegado con contenedores Docker y PostgreSQL. | `PostgreSQL` `Docker` `SQL` | [Ver Repo](https://github.com/juliand06/TallerReservasPostgreSQL) |
+| 🌐 **Portafolio Profesional** | Portafolio interactivo bilingüe (ES/EN) con animaciones CAD, visualizaciones interactivas y arquitectura limpia. | `JavaScript` `HTML5` `CSS3` | [🌐 Demo en Vivo](https://portafoleoandreyricaurte.netlify.app/) · [💻 Ver Repo](https://github.com/juliand06/Portafolio_AndreyRicaurte--1-) |
+| 🤖 **DeliveryBot (IA & Telegram)** | Bot conversacional inteligente para automatización de pedidos gastronómicos con agentes Groq (LLaMA), n8n y Google Sheets. | `Telegram API` `n8n` `LLMs` `Groq` | [💻 Ver Repo](https://github.com/juliand06/01_deliverybot_principal.json) |
+| 🛍️ **Plataforma Web E-Commerce** | Tienda online responsiva mobile-first con catálogo dinámico y carrito de compras reactivo. | `JavaScript` `HTML5` `CSS3` | [💻 Ver Repo](https://github.com/juliand06/landingpages2) |
+| 🛠️ **Renta de Herramientas y Construcción** | Software de escritorio y backend para gestión de inventario, reservas y trazabilidad de maquinaria comunitaria. | `Python` `SQL` `Docker` `Git` | [💻 Ver Repo](https://github.com/juliand06/rentaherramientas_equiposconstruccion) |
+| 🥗 **NutriRAG-IA** | Asistente nutricional inteligente potenciado por RAG (Retrieval-Augmented Generation) y modelos LLM. | `Python` `RAG` `LLMs` `Vector DB` | [💻 Ver Repo](https://github.com/juliand06/nutrirag-ia2) |
+| 🏥 **CareLink — Bounded Contexts** | Sistema diseñado bajo principios de arquitectura limpia y diseño guiado por el dominio (*Domain-Driven Design* / Bounded Contexts). | `Java` `Arquitectura` `DDD` | [💻 Ver Repo](https://github.com/juliand06/carelink_bounendcontexts) |
+| 🏥 **CareLink Backend** | Implementación backend principal del ecosistema CareLink desarrollada en Java. | `Java` `Backend` `POO` | [💻 Ver Repo](https://github.com/juliand06/carelink) |
+| 🗄️ **Examen & Consultas PostgreSQL** | Esquema relacional normalizado, funciones, triggers y consultas avanzadas en PL/pgSQL. | `PostgreSQL` `PL/pgSQL` `SQL` | [💻 Ver Repo](https://github.com/juliand06/exam-postgres) |
+| 🐳 **Taller Reservas PostgreSQL** | Modelado relacional de sistema de reservas desplegado con contenedores Docker y PostgreSQL. | `PostgreSQL` `Docker` `SQL` | [💻 Ver Repo](https://github.com/juliand06/TallerReservasPostgreSQL) |
 
 ---
 
